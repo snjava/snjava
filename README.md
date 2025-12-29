@@ -18,7 +18,7 @@ high-scale, secure, and resilient backend systems.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,rabbitmq,ocaml,bitbucket,maven,html,css,js,angular,jenkins,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,rabbitmq,ocaml,bitbucket,maven,git,prometheus,html,css,js,angular,jenkins,mysql,postgresql)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
