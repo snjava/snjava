@@ -13,8 +13,8 @@ high-scale, secure, and resilient backend systems.
 - Technical Content writer
 
 ## My Articles
-- [Core Java from Basics To Advance](https://javainbeats.com/#/core-java)
-- [Getting started with Spring AI](https://javainbeats.com/#/spring-boot)
+- ** [Core Java from Basics To Advance](https://javainbeats.com/#/core-java) **
+- ** [Getting started with Spring AI](https://javainbeats.com/#/spring-boot) **
 
 
 ## Tech Stack
@@ -30,7 +30,7 @@ high-scale, secure, and resilient backend systems.
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/sumit-n-93185614b)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/sumit-n-93185614b)
 - Read more of my articles on [javainbeats.com](https://javainbeats.com/#/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
