@@ -13,8 +13,8 @@ high-scale, secure, and resilient backend systems.
 - Technical Content writer
 
 ## My Articles
-- ** [Core Java from Basics To Advance](https://javainbeats.com/#/core-java) **
-- ** [Getting started with Spring AI](https://javainbeats.com/#/spring-boot) **
+- **[Core Java from Basics To Advance](https://javainbeats.com/#/core-java)**
+- **[Getting started with Spring AI](https://javainbeats.com/#/spring-boot)**
 
 
 ## Tech Stack
